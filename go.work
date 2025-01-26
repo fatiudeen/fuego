@@ -7,13 +7,14 @@ use (
 	./examples/basic
 	./examples/custom-errors
 	./examples/custom-serializer
+	./examples/echo-compat
 	./examples/full-app-gourmet
 	./examples/generate-opengraph-image
 	./examples/gin-compat
 	./examples/hello-world
 	./examples/openapi
-	./examples/with-listener
 	./examples/petstore
+	./examples/with-listener
 	./extra/fuegogin
 	./extra/markdown
 	./middleware/basicauth
